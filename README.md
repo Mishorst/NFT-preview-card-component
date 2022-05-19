@@ -43,6 +43,6 @@ The areas I want to continue focusing on in future projects iclude:
 
 ## Author
 
-- Website - [https://github.com/Mishorst/QR-code-component.git]
-- Frontend Mentor - [https://www.frontendmentor.io/profile/Mishorst]
-- Twitter - [https://twitter.com/Mishorosto1]
+- Website - [Mishorst](https://github.com/Mishorst/QR-code-component.git)
+- Frontend Mentor - [@Mishorst](https://www.frontendmentor.io/profile/Mishorst)
+- Twitter - [@Mishorosto1](https://twitter.com/Mishorosto1)
